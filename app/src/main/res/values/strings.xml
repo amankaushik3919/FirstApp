@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="greeting_message">Hi! This is AK!</string>
+    <string name="hello_again">Hello Again!</string>
+</resources>
